@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 #### 🌱 I’m currently learning whatever i can get my hands on 🫠
 #### 👯 I’m looking to collaborate on projects regarding app dev
 #### 📫 How to reach me: priyanshubhandari.211ec136@nitk.edu.in
-#### 😄 Pronouns: ...
+#### 😄 Pronouns: He/Him
 #### ⚡ Fun fact: I share bday with Sundar Pichai 💀
 
 ### :fire: My Stats :
