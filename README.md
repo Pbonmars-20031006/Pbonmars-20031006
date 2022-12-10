@@ -1,6 +1,6 @@
 <h1>
   hey there 
-  <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gi](http://www.greenplacepark.com/)" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gi](http://www.greenplacepark.com/" width="30px"/>
 </h1>
 
 <!--
